@@ -5,12 +5,9 @@ Version 1
 
 Version 2
 
-Cambio producido para desarrollo
-
-Cambio producido para desarrollo 2
+Cambio producido para nuevo desarrollo
 
 
-Cambio producido para desarrollo 3
 
 
 
